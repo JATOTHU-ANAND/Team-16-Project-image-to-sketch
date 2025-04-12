@@ -1,0 +1,8 @@
+opencv-python
+opencv-contrib-python
+torch
+torchvision
+mediapipe
+numpy
+PyQt6
+//pipinstall-rrequirements.txt
