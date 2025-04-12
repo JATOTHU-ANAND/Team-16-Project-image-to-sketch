@@ -22,7 +22,7 @@ Install the required dependencies using:
 
 ```bash
 pip install -r Requirements.txt
-If you don't have a requirements.txt, here's the list:
+If you don't have a Requirements.txt, here's the list:
 
 pip install PyQt6 opencv-python numpy Pillow
 Note: tkinter is part of the Python standard library, no need to install it separately (make sure it's enabled in your Python installation).
